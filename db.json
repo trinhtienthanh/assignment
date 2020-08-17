@@ -1,0 +1,83 @@
+{
+  "products": [
+    {
+      "id": "6l4q9zelz",
+      "name": "demo",
+      "price": "56",
+      "saleprice": "3423",
+      "shortdesc": "retrer",
+      "desc": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/products%2F2.jpg?alt=media&token=5a7ddac9-de5b-4723-bd73-71adc78b0337",
+      "showmenu": false
+    },
+    {
+      "id": "g3d54rf40",
+      "name": "aaaaaaaaaaaaaaaaaaaaa",
+      "price": "200",
+      "saleprice": "12",
+      "shortdesc": "adsadasdasd",
+      "desc": "sadsadsadsad",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/products%2F3.jpg?alt=media&token=0195d629-1cdf-4e7d-8b62-ff8b779be68e",
+      "showmenu": false
+    },
+    {
+      "id": "bamowpg91",
+      "name": "aaaaaaxxxxxxxx",
+      "price": "200",
+      "saleprice": "123",
+      "shortdesc": "aaaaa",
+      "desc": "sđsad",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/products%2F11.jpg?alt=media&token=b2b91c6b-8f02-4c1c-9a44-20a2e90ca6a1",
+      "showmenu": false
+    },
+    {
+      "id": "o9byu8c49",
+      "name": "demo",
+      "price": "200",
+      "saleprice": "123",
+      "shortdesc": "ấdsjadhsajd",
+      "desc": "kskdgsakdkas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/products%2F22.jpg?alt=media&token=2699d04e-2a52-4fc1-83f7-73a5c6f4e797",
+      "showmenu": "1"
+    },
+    {
+      "id": "eoh5dq1oh",
+      "name": "demo",
+      "price": "121212",
+      "saleprice": "121212",
+      "shortdesc": "abcccccccc",
+      "desc": "aaaaaaaaaaaaa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/products%2F3.jpg?alt=media&token=0b3e6bda-8ebd-4614-af85-4c09106b834e"
+    }
+  ],
+  "categories": [
+    {
+      "name": "thanhttph08933",
+      "desc": "aaa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/categories%2F110113428_3542132709169929_7694593010013268507_o.jpg?alt=media&token=d746efd5-8cd4-4ce8-a648-0645abc41a88",
+      "show_menu": "1",
+      "id": "WLcEZaH"
+    },
+    {
+      "name": "Trịnh Tiến Thành2",
+      "desc": "aaaaa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/categories%2F110113428_3542132709169929_7694593010013268507_o.jpg?alt=media&token=a283507b-7494-412d-aa75-178dda0d944f",
+      "show_menu": false,
+      "id": "x05V82c"
+    },
+    {
+      "name": "tesst1",
+      "desc": "abcd",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/categories%2F1.jpg?alt=media&token=a834c42a-1d9a-4adb-8b44-6c46fb593653",
+      "show_menu": false,
+      "id": "IIQ3zjP"
+    },
+    {
+      "name": "demo cate",
+      "desc": "aaa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/categories%2F2.jpg?alt=media&token=2663044e-0058-49d6-814b-49f7967c6036",
+      "show_menu": false,
+      "id": "ITddL40"
+    }
+  ]
+}
